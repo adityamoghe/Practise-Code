@@ -1,0 +1,317 @@
+!SESSION 
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2015-11-10 17:44:15.676
+!MESSAGE The server "WildFly  8.x" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. C:\Program Files\Java\jre1.8.0_45 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-11-10 17:44:17.167
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-11-10 17:44:31.193
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2015-11-10 17:46:11.023
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2015-11-10 17:46:11.620
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2015-11-10 17:46:11.759
+!MESSAGE The server "WildFly  8.x" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. C:\Program Files\Java\jre1.8.0_45 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-11-10 17:46:12.803
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-11-10 17:46:19.182
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2015-11-10 17:49:11.641
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2015-11-10 17:49:12.205
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2015-11-10 17:49:12.342
+!MESSAGE The server "WildFly  8.x" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. C:\Program Files\Java\jre1.8.0_45 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-11-10 17:49:13.392
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-11-10 17:49:19.781
+!MESSAGE Server Startup Succeeded
+!SESSION 
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2015-11-16 11:26:04.409
+!MESSAGE The server "WildFly  8.x" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. C:\Program Files\Java\jre1.8.0_45 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-11-16 11:26:05.743
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-11-16 11:26:17.143
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2015-11-16 11:26:17.161
+!MESSAGE Module HospitalManagementSystem on WildFly  8.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2015-11-16 13:52:09.510
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2015-11-16 13:52:16.953
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2015-11-16 13:52:17.074
+!MESSAGE The server "WildFly  8.x" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. C:\Program Files\Java\jre1.8.0_45 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-11-16 13:52:19.292
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2015-11-16 13:52:33.810
+!MESSAGE Module TrainingManagementSystem on WildFly  8.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-11-16 13:52:33.811
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2015-11-16 14:09:36.962
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2015-11-16 14:09:37.624
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2015-11-16 14:09:37.664
+!MESSAGE The server "WildFly  8.x" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. C:\Program Files\Java\jre1.8.0_45 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-11-16 14:09:38.765
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-11-16 14:09:45.067
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2015-11-16 14:09:45.181
+!MESSAGE Module TrainingManagementSystem on WildFly  8.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2015-11-16 14:11:43.307
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2015-11-16 14:11:46.262
+!MESSAGE The server "WildFly  8.x" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. C:\Program Files\Java\jre1.8.0_45 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-11-16 14:11:47.330
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-11-16 14:11:53.896
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2015-11-16 14:11:53.932
+!MESSAGE Module TrainingManagementSystem on WildFly  8.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2015-11-16 15:33:28.818
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2015-11-16 15:33:31.637
+!MESSAGE The server "WildFly  8.x" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. C:\Program Files\Java\jre1.8.0_45 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-11-16 15:33:32.716
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-11-16 15:33:40.347
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2015-11-16 15:33:40.398
+!MESSAGE Module TrainingManagementSystem on WildFly  8.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2015-11-16 16:09:04.365
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2015-11-16 16:09:06.988
+!MESSAGE The server "WildFly  8.x" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. C:\Program Files\Java\jre1.8.0_45 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-11-16 16:09:08.061
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-11-16 16:09:13.601
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2015-11-16 16:09:13.604
+!MESSAGE Module TrainingManagementSystem on WildFly  8.x not yet fully deployed. Waiting...
+!SESSION 
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2015-11-16 16:53:49.634
+!MESSAGE The server "WildFly  8.x" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. C:\Program Files\Java\jre1.8.0_45 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-11-16 16:53:51.252
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-11-16 16:53:57.807
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2015-11-16 16:53:57.928
+!MESSAGE Module TrainingManagementSystem on WildFly  8.x not yet fully deployed. Waiting...
+!SESSION 
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2015-11-17 10:17:58.639
+!MESSAGE The server "WildFly  8.x" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. C:\Program Files\Java\jre1.8.0_45 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-11-17 10:18:09.381
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-11-17 10:18:16.463
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2015-11-17 10:18:16.542
+!MESSAGE Module TrainingManagementSystem on WildFly  8.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2015-11-17 11:11:11.741
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842785 2015-11-17 11:11:16.578
+!MESSAGE Server Shutdown Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2015-11-17 11:11:16.720
+!MESSAGE The server "WildFly  8.x" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. C:\Program Files\Java\jre1.8.0_45 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-11-17 11:11:18.289
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2015-11-17 11:11:30.516
+!MESSAGE Module TrainingManagementSystem on WildFly  8.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-11-17 11:11:30.835
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2015-11-17 13:31:40.883
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2015-11-17 13:31:46.241
+!MESSAGE The server "WildFly  8.x" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. C:\Program Files\Java\jre1.8.0_45 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-11-17 13:31:47.361
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-11-17 13:31:57.494
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2015-11-17 13:31:57.590
+!MESSAGE Module TrainingManagementSystem on WildFly  8.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2015-11-17 14:38:32.295
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2015-11-17 14:43:48.794
+!MESSAGE The server "WildFly  8.x" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. C:\Program Files\Java\jre1.8.0_45 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-11-17 14:43:49.986
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-11-17 14:43:57.613
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2015-11-17 14:43:58.238
+!MESSAGE Module TrainingManagementSystem on WildFly  8.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2015-11-17 14:44:18.253
+!MESSAGE Module TrainingManagementSystem on WildFly  8.x still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2015-11-17 14:44:24.794
+!MESSAGE Module TrainingManagementSystem on WildFly  8.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2015-11-17 14:44:44.804
+!MESSAGE Module TrainingManagementSystem on WildFly  8.x still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2015-11-17 14:45:28.639
+!MESSAGE Module TrainingManagementSystem on WildFly  8.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2015-11-17 14:45:45.137
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2015-11-17 14:45:47.855
+!MESSAGE The server "WildFly  8.x" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. C:\Program Files\Java\jre1.8.0_45 
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2015-11-17 14:45:48.645
+!MESSAGE Module TrainingManagementSystem on WildFly  8.x still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-11-17 14:45:48.912
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-11-17 14:45:54.631
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2015-11-17 14:45:54.646
+!MESSAGE Module TrainingManagementSystem on WildFly  8.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2015-11-17 14:46:14.656
+!MESSAGE Module TrainingManagementSystem on WildFly  8.x still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2015-11-17 14:46:48.761
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2015-11-17 14:46:56.463
+!MESSAGE The server "WildFly  8.x" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. C:\Program Files\Java\jre1.8.0_45 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-11-17 14:46:57.523
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-11-17 14:47:03.442
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2015-11-17 14:47:03.784
+!MESSAGE Module TrainingManagementSystem on WildFly  8.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2015-11-17 14:47:25.797
+!MESSAGE Module TrainingManagementSystem on WildFly  8.x still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2015-11-17 14:48:17.357
+!MESSAGE Module TrainingManagementSystem on WildFly  8.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2015-11-17 14:48:37.367
+!MESSAGE Module TrainingManagementSystem on WildFly  8.x still not ready to be shown in browser. Aborting delay.
+!SESSION 
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2015-11-17 14:51:14.950
+!MESSAGE The server "WildFly  8.x" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. C:\Program Files\Java\jre1.8.0_45 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-11-17 14:51:16.961
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-11-17 14:51:23.981
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2015-11-17 14:51:24.078
+!MESSAGE Module TrainingManagementSystem on WildFly  8.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2015-11-17 14:51:46.098
+!MESSAGE Module TrainingManagementSystem on WildFly  8.x still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2015-11-17 14:52:08.148
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2015-11-17 14:52:55.228
+!MESSAGE The server "WildFly  8.x" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. C:\Program Files\Java\jre1.8.0_45 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-11-17 14:52:56.318
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-11-17 14:53:02.106
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2015-11-17 14:53:02.164
+!MESSAGE Module TrainingManagementSystem on WildFly  8.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2015-11-17 14:53:22.248
+!MESSAGE Module TrainingManagementSystem on WildFly  8.x still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2015-11-17 14:53:33.886
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2015-11-17 14:54:07.695
+!MESSAGE The server "WildFly  8.x" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. C:\Program Files\Java\jre1.8.0_45 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-11-17 14:54:08.780
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-11-17 14:54:16.205
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2015-11-17 14:54:16.209
+!MESSAGE Module TrainingManagementSystem on WildFly  8.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2015-11-17 19:11:33.139
+!MESSAGE Server processes have been terminated.

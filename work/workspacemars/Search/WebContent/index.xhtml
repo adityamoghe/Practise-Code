@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"
+	xmlns:h="http://java.sun.com/jsf/html"
+	xmlns:f="http://java.sun.com/jsf/core"
+	xmlns:p="http://primefaces.org/ui"
+	xmlns:ui="http://java.sun.com/jsf/facelets">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+<title>Search</title>
+</head>
+<body>
+	<center> <h:form action="#{ProductBean.getProductFromList}">
+		<table>
+
+			<tr>
+				<td colspan="2" align="center">Product Search</td>
+			</tr>
+
+
+			<tr>
+				<td>Product</td>
+				<td><h:selectOneMenu>
+						<f:selectItem itemLabel="----SELECT----" itemValue="sel"></f:selectItem>
+						<ui:repeat value="#{productBean.productSet}" var="p">
+							<f:selectItem itemLabel="#{p}" itemValue="#{p}"> #{p} </f:selectItem>
+						</ui:repeat>
+					</h:selectOneMenu></td>
+			</tr>
+
+			<tr>
+				<td>Vendor</td>
+				<td><h:selectOneMenu>
+						<f:selectItem itemLabel="----SELECT----" itemValue="sel"></f:selectItem>
+						<ui:repeat value="#{productBean.vendorSet}" var="vend">
+							<f:selectItem itemLabel="#{vend}" itemValue="#{vend}"></f:selectItem>
+						</ui:repeat>
+
+
+					</h:selectOneMenu></td>
+			</tr>
+
+			<tr>
+				<td>City</td>
+				<td><h:selectOneMenu>
+						<f:selectItem itemLabel="----SELECT----" itemValue="sel"></f:selectItem>
+						<ui:repeat value="#{productBean.citySet}" var="cit">
+							<f:selectItem itemLabel="#{cit}" itemValue="#{cit}"></f:selectItem>
+						</ui:repeat>
+
+					</h:selectOneMenu></td>
+			</tr>
+
+			<tr>
+				<td>Sort:</td>
+				<td><h:selectOneRadio>
+						<f:selectItem itemValue="1" itemLabel="Product" />
+						<f:selectItem itemValue="2" itemLabel="Vendor" />
+						<f:selectItem itemValue="2" itemLabel="City" />
+					</h:selectOneRadio></td>
+			</tr>
+
+			<tr>
+				<td colspan="2"><h:commandButton value="SEARCH" /></td>
+			</tr>
+
+
+		</table>
+	</h:form> </center>
+</body>
+</html>

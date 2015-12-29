@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"
+	xmlns:h="http://java.sun.com/jsf/html">
+<h:head>
+	<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+	<title>Insert title here</title>
+</h:head>
+<h:body style="background-image:url(back.jpg);">
+	<div id="loginForm">
+		<h:form prependId="false">
+			<center>
+			<table id="loginForm" height="700px" width="400px">
+				<tr>
+					<td colspan="2" align="center"><h1>Registration Form</h1></td>
+				</tr>
+
+
+
+
+				<tr>
+					<td>Name</td>
+					<td><h:inputText id="name" /></td>
+				</tr>
+
+
+				<tr>
+					<td>Contact</td>
+					<td><h:inputText id="contact" /></td>
+				</tr>
+
+
+				<tr>
+					<td>Address</td>
+					<td><h:inputTextarea id="address" /></td>
+				</tr>
+
+
+
+				
+
+
+
+				<tr>
+					<td>User name</td>
+					<td><h:inputText id="userName" value="#{userBean.userName}" /></td>
+				</tr>
+				<tr>
+					<td colspan="2" align="center"><span id="user"></span></td>
+				</tr>
+				<tr>
+					<td>Password</td>
+					<td><h:inputSecret id="password" value="#{userBean.password}" /></td>
+				</tr>
+
+				<tr>
+					<td colspan="2" align="center"><h:commandButton type="button"
+							id="register" /></td>
+
+				</tr>
+			</table>
+			</center>
+		</h:form>
+	</div>
+
+
+
+</h:body>
+</html>

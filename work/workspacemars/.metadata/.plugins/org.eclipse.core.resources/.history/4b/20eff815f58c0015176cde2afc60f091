@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+	
+	<a href="index.xhtml"><img id="1" src="images/1.png" height="50px" width="50px"></img></a>
+			<img id="2" src="images/2.png" height="40px" width="50px"></img> 
+			<img id="3" src="images/3.png" height="50px" width="50px"></img> 
+			<img id="4" src="images/4.png" height="50px" width="50px"></img> 
+			<img id="5" src="images/5.png" height="50px" width="50px"></img>
+			<img src="images/6.png" height="50px" width="50px"></img>
+			<img src="images/7.png" height="50px" width="50px"></img>
+	
+
+</html>

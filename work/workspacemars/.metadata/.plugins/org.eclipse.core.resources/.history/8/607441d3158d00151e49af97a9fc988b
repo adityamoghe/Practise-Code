@@ -1,0 +1,10 @@
+package com.yash.training.tms.bean;
+
+public class CoursesBean {
+	
+	String courseTitle;
+	String description;
+	String referenceCode;
+	String status;
+	String image;
+}

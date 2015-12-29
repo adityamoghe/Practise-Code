@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<body>
+<div style="
+.wrapper {
+	height: 900px;
+	width: 1350px;
+	margin-left: 20px;
+	background-color: #A8A8A8;
+}
+
+.header {
+	width: 1350px;
+	height: 100px;
+}
+
+.leftmenu {
+	width: 50px;
+	height: 500px;
+	float: left;
+	margin-top: 10px;
+}
+
+.center {
+	width: 1000px;
+	height: 650px;
+	float: left;
+	margin-top: 10px;
+	margin-left: 10px;
+}
+
+.rightmenu {
+	width: 270px;
+	height: 300px;
+	float: right;
+	margin-top: 10px;
+	background-color: white;
+}
+
+.righttop {
+	width: 270px;
+	height: 50px;
+	float: right;
+	background-color: #D6D4D4;
+	margin-bottom: 10px;
+}
+
+.centertop {
+	width: 1000px;
+	height: 250px;
+}
+
+.centermiddle {
+	width: 1000px;
+	height: 200px;
+	background-color: #E7E7E7;
+	margin-top: 10px;
+}
+
+.centerbottom {
+	width: 1000px;
+	height: 200px;
+	background-color: white;
+	margin-top: 10px;
+}
+
+.centermiddleleft {
+	width: 490px;
+	height: 200px;
+	background-color: white;
+	float: left;
+}
+
+.centermiddlelefttop {
+	width: 490px;
+	height: 50px;
+	background-color: #D6D4D4;
+	float: left;
+}
+
+.centermiddleright {
+	width: 490px;
+	height: 200px;
+	background-color: white;
+	float: right;
+}
+
+.dashboard1 {
+	width: 120px;
+	height: 150px;
+	background-color: #D6D4D4;
+}
+
+.dashboard2 {
+	width: 120px;
+	height: 150px;
+	background-color: #D6D4D4;
+	float: left;
+	margin-left: 10px;
+}
+
+.dashboard3 {
+	width: 120px;
+	height: 150px;
+	background-color: #D6D4D4;
+}
+
+.dashboard4 {
+	
+}
+
+"><div class="header">
+			<table width="100%">
+				<tr>
+					<td><img src="images/logo.png" height="100px" width="300px"></img></td>
+					<td align="right"><h3>Welcome: Aditya Moghe</h3></td>
+
+
+				</tr>
+
+			</table>
+
+		</div></div>
+</body>
+</html>

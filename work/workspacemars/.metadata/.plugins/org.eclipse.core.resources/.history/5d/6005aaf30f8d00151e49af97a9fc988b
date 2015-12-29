@@ -1,0 +1,63 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml"
+	xmlns:ui="http://java.sun.com/jsf/facelets"
+	xmlns:h="http://java.sun.com/jsf/html"
+	xmlns:f="http://java.sun.com/jsf/core">
+
+<ui:composition template="homemain.xhtml">
+	
+	<ui:define name="content">
+	   <div class="leftmenu">
+
+			<ui:include src="leftmenu.xhtml"></ui:include>
+
+		</div>
+
+		<div
+			style="width: 1250px; height: 500px; background-color: #E7E7E7; float: left; margin-left: 20px; margin-top: 10px;">
+
+			<div
+				style="height: 500px; width: 900px; background-color: white; float: left;">
+
+				<div
+					style="width: 890px; height: 80px; background-color: #CECECE; float: left; padding-left: 10px;"><h3>Create Detail Training Plan</h3></div>
+
+				<div id="tabsplan" style="float: left;">
+					<ul>
+						<li><a href="#tabs-1">Main Heading</a></li>
+						<li><a href="#tabs-2">Sub Heading</a></li>
+
+					</ul>
+					<div id="tabs-1">
+
+					
+
+
+
+						<div align="left">
+							<div
+								style="height: 150px; width: 120px; background-color: white; margin-left: 10px;"></div>
+						</div>
+
+
+
+
+					</div>
+					<div id="tabs-2">
+						<p>This is Activity</p>
+					</div>
+
+				</div>
+
+
+			</div>
+	
+			
+
+		</div>
+	</ui:define>
+	
+</ui:composition>
+</html>

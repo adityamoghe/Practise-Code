@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;TrainingManagementSystem/WebContent/index.xhtml&apos; to &apos;Registration.xhtml&apos;" description="Rename resource &apos;index.xhtml&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="WebContent/index.xhtml" name="Registration.xhtml" stamp="1446888933852" updateReferences="true"/>
+</session>
